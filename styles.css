@@ -105,10 +105,10 @@ a {
   }
 
   .profile-pic {
-    width: 150px; 
-    height: 150px; 
-    border-radius: 50%; 
-    object-fit: cover; 
-    display: block;
+    width: 150px !important; 
+    height: 150px !important; 
+    border-radius: 50% !important; 
+    object-fit: cover !important; 
+    display: block !important;
 }
   
