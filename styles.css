@@ -105,10 +105,10 @@ a {
   }
 
   .profile-pic {
-    width: 150px; /* Set a fixed width */
-    height: 150px; /* Set a fixed height (same as width to keep it square) */
-    border-radius: 50%; /* Makes it a perfect circle */
-    object-fit: cover; /* Ensures the image fills the circular shape */
-    display: block; /* Removes extra space */
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+    display: block;
 }
   
